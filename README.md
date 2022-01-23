@@ -1,2 +1,3 @@
 # CSD111
-Abhay and Amanpreet
+Abhay Student B and 
+Amanpreet Student C
